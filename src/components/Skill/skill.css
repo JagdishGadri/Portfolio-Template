@@ -1,0 +1,20 @@
+.skills{
+ display: flex;
+ flex-direction: row;
+ border: 2px solid  rgb(200, 112, 218);
+ border-radius: 10px;
+ margin: 100px 100px;
+ align-items: center;
+ padding: 20px;
+}
+
+.skill-title{
+    margin-right: 100px;
+}
+
+.skill-details{
+ display: flex;
+ flex-direction: row;
+ align-items: baseline;
+}
+

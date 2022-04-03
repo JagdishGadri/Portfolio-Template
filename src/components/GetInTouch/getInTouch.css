@@ -1,0 +1,25 @@
+.getInTouch{
+ display: flex;
+ flex-direction: row;
+ border: 2px solid rgb(136, 255, 0);
+ border-radius: 10px;
+ margin: 100px 100px 100px;
+ align-items: center;
+ padding: 20px;
+}
+
+.getInTouch-title{
+    margin-right: 100px;
+}
+
+.getInTouch-details{
+ display: flex;
+ flex-direction: row;
+ margin-right: 10px;
+ justify-content: space-between;
+ border-radius: 5px;
+ text-decoration: none;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,15 @@
+.link{
+    box-shadow: rgba(212, 201, 201, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+    margin:10px 10px;
+    padding: 7px;
+    background-color: rgb(200, 112, 218);
+}
+
+a{
+    color:white
+}
+
+a:hover{
+   color:rgb(130, 211, 130);
+}
